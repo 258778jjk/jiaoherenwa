@@ -1,1 +1,1 @@
-这是一个ai partner(ai机器人)的联系代码
+这是一个ai partner(ai陪伴机器人)的练习代码
